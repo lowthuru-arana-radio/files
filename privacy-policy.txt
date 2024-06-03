@@ -1,1 +1,31 @@
+Privacy Policy
+Introduction
+Welcome to Lowthuru Arana Radio ("we", "our", "us"). We are committed to protecting and respecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (the "App"). Please read this policy carefully to understand our practices regarding your personal data and how we treat it.
 
+Information We Collect
+Personal Data
+Lowthuru Arana Radio does not collect any personally identifiable information from users. We do not require you to provide any personal data to use our App.
+
+Usage Data
+Lowthuru Arana Radio does not collect any usage data from users. We do not track how the App is accessed and used.
+
+Location Data
+Lowthuru Arana Radio does not use or store information about your location. Our App does not access your device’s location services.
+
+Use of Data
+Since we do not collect any data from users, we do not use your data for any purposes.
+
+Disclosure of Data
+Lowthuru Arana Radio does not collect or store any personal information, so we do not disclose any data to third parties.
+
+Security of Data
+While we do not collect any data, we are committed to ensuring that any interactions within our App are secure and your experience is safe.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: lowthuruaranaradio@gmail.com
+Thank you for using Lowthuru Arana Radio.
